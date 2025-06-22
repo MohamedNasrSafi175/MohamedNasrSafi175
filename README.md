@@ -3,7 +3,6 @@
 
 </h1>
 
-
 <h3 align="center">Professional Flutter Developer | Building cross-platform mobile apps with Flutter & Dart<br>| Always learning 🚀</h3>
 
 ###
@@ -70,7 +69,7 @@
 
 ###
 
-<h3 align="left">Social links</h3>
+<h2 align="left">Social links</h2>
 
 ###
 
@@ -78,13 +77,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-safi-68006a298/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=L&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="33" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/14789161/mohamed-safi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=S&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="57" height="33" alt="stackoverflow logo"  />
   </a>
   <a href="https://medium.com/@m.safi1122" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=M&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="57" height="33" alt="medium logo"  />
   </a>
 </div>
 
