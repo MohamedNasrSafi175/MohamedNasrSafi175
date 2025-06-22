@@ -4,6 +4,8 @@
 </h1>
 
 
+###
+
 <h3 align="center">Professional Flutter Developer | Building cross-platform mobile apps with Flutter & Dart<br>| Always learning 🚀</h3>
 
 ###
@@ -60,6 +62,24 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=MohamedNasrSafi175&theme=dracula&column=9&row=1&margin-w=0&margin-h=0&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedNasrSafi175&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h6 align="left">Social links</h6>
+
+###
+
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-safi-68006a298/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=L&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
@@ -70,15 +90,6 @@
   <a href="https://medium.com/@m.safi1122" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=M&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="medium logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MohamedNasrSafi175&theme=dracula&column=9&row=1&margin-w=0&margin-h=0&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedNasrSafi175&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
