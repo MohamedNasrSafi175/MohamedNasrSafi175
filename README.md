@@ -84,12 +84,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedNasrSafi175.MohamedNasrSafi175&"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
