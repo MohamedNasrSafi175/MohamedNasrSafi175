@@ -4,17 +4,11 @@
 </h1>
 
 
-###
-
 <h3 align="center">Professional Flutter Developer | Building cross-platform mobile apps with Flutter & Dart<br>| Always learning 🚀</h3>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
@@ -68,12 +62,13 @@
 
 ###
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNasrSafi175=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedNasrSafi175&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<h6 align="left">Social links</h6>
+<h3 align="left">Social links</h3>
 
 ###
 
